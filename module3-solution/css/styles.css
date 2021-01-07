@@ -1,0 +1,40 @@
+
+ body {
+  font-size: 16px;
+  color: #ffff;
+  background-color: black;
+ }
+
+ /** HEADER **/
+#header-nav {
+	background-color: #61122f;
+	border-radius: 0;
+	border: 0;
+} 
+#header-title {
+	font-size: 1.5em;
+	text-align: left;
+	margin:auto;
+	vertical-align: middle;
+	position: absolute;
+	left: 15px;
+	top:7px;
+}
+
+li {
+	text-align: center;
+	vertical-align: middle;
+}
+
+#menu-title {
+	font-size: 1.5em;
+	margin-bottom: 15px;
+}
+
+p {
+	background-color: white;
+	color: blue;
+	width: 100%;
+	font-size: 1.2em;
+
+}
